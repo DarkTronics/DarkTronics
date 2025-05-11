@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<p>My name is Xinwei, I am a graduate from Binghamton University.</p>
 <!--
 **DarkTronics/DarkTronics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
